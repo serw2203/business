@@ -26,3 +26,4 @@ nbdist/
 mvnw.cmd
 mvnw
 .mvn
+dependency-tree.txt
